@@ -2,6 +2,8 @@
 
 The COVID-19 Dashboard for Sri Lanka is a comprehensive and dynamic visualization tool that focuses on providing accurate and accessible insights into the impact of the COVID-19 pandemic.
 
+### Dashboard: https://pubde.github.io/Covid-19-Sri-Lanka-DashBoard/
+
 ## Overview
 
 This repository contains a COVID-19 dashboard focused on tracking and visualizing data related to the pandemic in Sri Lanka. The dashboard is built using PowerBI and provides insights into new cases, deaths, monthly trends, and regional statistics.
@@ -16,20 +18,20 @@ The ongoing COVID-19 pandemic has underscored the critical importance of accurat
 
 ## Dashboard Preview
 
-Header, current case and deaths
-<img width="642" alt="Image_3" src="https://github.com/PubDe/Covid-19-Sri-Lanka-DashBoard/assets/95436155/d078c4f7-fd79-4528-b897-21df51767330">]
+Header
+![](https://github.com/PubDe/Covid-19-Sri-Lanka-DashBoard/assets/95436155/d078c4f7-fd79-4528-b897-21df51767330)
 
 Reported cases and deaths by the each year
-<img width="642" alt="Image_4" src="https://github.com/PubDe/Covid-19-Sri-Lanka-DashBoard/assets/95436155/7287e48f-cdb5-4509-960d-61239bb98150">
+![Reported cases and deaths by the each year](https://github.com/PubDe/Covid-19-Sri-Lanka-DashBoard/assets/95436155/7287e48f-cdb5-4509-960d-61239bb98150)
 
 Monthly analyze of the cases and deaths
-<img width="642" alt="Image_5" src="https://github.com/PubDe/Covid-19-Sri-Lanka-DashBoard/assets/95436155/b01d70d5-096b-4967-bf6f-3f68e81a715c">
+![Monthly analyze of the cases and deaths](https://github.com/PubDe/Covid-19-Sri-Lanka-DashBoard/assets/95436155/b01d70d5-096b-4967-bf6f-3f68e81a715c)
 
 Provincial statistics_1
-<img width="642" alt="Image_6" src="https://github.com/PubDe/Covid-19-Sri-Lanka-DashBoard/assets/95436155/b02545b0-48af-4daa-b655-4e19384eec0e">
+![Provincial statistics_1](https://github.com/PubDe/Covid-19-Sri-Lanka-DashBoard/assets/95436155/b02545b0-48af-4daa-b655-4e19384eec0e)
 
 Provincial statistics_2
-![Provincial statistics](https://github.com/PubDe/Covid-19-Sri-Lanka-DashBoard/assets/95436155/21bfabfb-1331-41cf-90ac-2934eea0421b)
+![Provincial statistics_2](https://github.com/PubDe/Covid-19-Sri-Lanka-DashBoard/assets/95436155/21bfabfb-1331-41cf-90ac-2934eea0421b)
 
 ## Objectives
 
