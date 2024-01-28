@@ -40,8 +40,7 @@ Enhance data-driven communication by translating complex statistics into meaning
 
 ## Data Sources
 
-The data used in this dashboard is sourced from [World Health Organization](https://covid19.who.int/data) and [Sri Lanka government epidemiology unit](https://www.epid.gov.lk).
-[Regional-COVID-19-dataset-Sri-Lanka](https://github.com/PubDe/Regional-COVID-19-dataset-Sri-Lanka)
+The data used in this dashboard is sourced from [World Health Organization](https://covid19.who.int/data), [Sri Lanka government epidemiology unit](https://www.epid.gov.lk) and [Regional-COVID-19-dataset-Sri-Lanka](https://github.com/PubDe/Regional-COVID-19-dataset-Sri-Lanka)
 
 ## Acknowledgements
 
