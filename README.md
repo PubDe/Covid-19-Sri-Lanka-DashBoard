@@ -16,7 +16,6 @@ The ongoing COVID-19 pandemic has underscored the critical importance of accurat
 
 ## Dashboard Preview
 
-![Dashboard Preview](https://github.com/PubDe/Covid-19-Sri-Lanka-DashBoard/assets/95436155/1de8df37-3819-4947-a526-760216325c1d)
 
 ![Dashboard Preview](https://github.com/PubDe/Covid-19-Sri-Lanka-DashBoard/assets/95436155/21bfabfb-1331-41cf-90ac-2934eea0421b)
 
